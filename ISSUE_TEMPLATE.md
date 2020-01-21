@@ -2,7 +2,7 @@ Thanks for submitting a talk to Austin Node.js!
 
 ### Would you like to present a Lightning Talk or Feature Talk
 
-- [ ] Lightning Talk (5 to 15 mins)
+- [x] Lightning Talk (5 to 15 mins)
 - [ ] Feature Talk (30 to 60 mins)
 
 ### What's your talk title?
@@ -15,5 +15,5 @@ Thanks for submitting a talk to Austin Node.js!
 
 ### Do you have any links or materials you'd like to share?
 
-- [ ] --- link to something fun! ---
-- [ ] --- link to cool materials! ---
+- --- link to something fun! ---
+- --- link to cool materials! ---
